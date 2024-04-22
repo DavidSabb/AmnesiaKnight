@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Knight
+comment1.params=world
+comment1.target=Knight(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkCollision()
+comment4.params=
+comment4.target=void\ updateLivesDisplay()
+numComments=5
